@@ -9,8 +9,11 @@ Process modification project from the late 1970s aimed at reducing benzene in mo
 
 ### Background & Framing
 - [ ] Document current situation and case for action  
-- [ ] Establish regulatory context and benzene specifications  
-- [ ] Summarize feedstock characteristics and reformate composition  
+- [ ] Establish regulatory context and benzene specifications
+- [ ] Obtain Plant Block Diagram
+- [ ] Identify benzene rich streams that enter gasoline blending and blocks the come from
+- [ ] Obtain basic process documentation of units creating benzene in gasoline.
+  - [ ] Process Block Diagrams, Process descriptions, PFDs and process models of existing equipment
 
 ### Project Ideation
 - [ ] Identify potential benzene‑reduction pathways  
