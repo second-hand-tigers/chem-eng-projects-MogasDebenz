@@ -8,12 +8,7 @@ Process modification project from the late 1970s aimed at reducing benzene in mo
 ## Milestones
 
 - [ ] [Background & Framing](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/1)
-
-
-- [ ] [Project Ideation](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/2)
-- [ ] Identify potential benzene‑reduction pathways  
-- [ ] Screen separation and processing options  
-- [ ] Evaluate feasibility, operability, and integration impacts  
+- [ ] [Design Ideation](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/2) 
 
 - [ ] Final Design Selection](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/3)
 - [ ] Select preferred processing scheme  
