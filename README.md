@@ -11,7 +11,7 @@ Process modification project from the late 1970s aimed at reducing benzene in mo
 - [ ] [Design Ideation](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/2)
 - [ ] [Final Design Selection](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/3)
 - [ ] [Create PFD for Selected Design](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/4)
-- [ ] [Align on Management of Change Work Process](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/9)
+- [ ] [Software Selection & Management of Change Process](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/9)
 - [ ] [Flowsheet Model Setup](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/5)
 - [ ] [Model Development](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/6)
 - [ ] [Model Validation](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/7)
