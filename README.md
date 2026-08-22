@@ -1,4 +1,4 @@
-# Motor Gasoline Benzene Removal(circa 1977) Project
+# Motor Gasoline Benzene Removal Project, circa 1977
 Process modification project from the late 1970s aimed at reducing benzene in motor gasoline to comply with emerging regulatory limits.
 
 ## To-do list
