@@ -7,16 +7,16 @@ Process modification project aimed at reducing benzene in motor gasoline to comp
 
 ## Milestones
 
-- [ ] [Stakeholder Alignment & Framing](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/1)
-- [ ] [Design Ideation](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/2)
-- [ ] [Final Design Selection & Endorsement](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/3)
-- [ ] [Create PFD for Selected Design](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/4)
-- [ ] [Software Selection & Management of Change Process](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/9)
-- [ ] [Flowsheet Model Setup](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/5)
-- [ ] [Model Development](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/6)
-- [ ] [Model Validation](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/7)
-- [ ] [Economic Analysis & Optimization](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/8)
-- [ ] [Closeout & Handoff](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/10)
+- [ ] [Stakeholder Alignment & Framing](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/1)
+- [ ] [Design Ideation](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/2)
+- [ ] [Final Design Selection & Endorsement](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/3)
+- [ ] [Create PFD for Selected Design](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/4)
+- [ ] [Software Selection & Management of Change Process](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/9)
+- [ ] [Flowsheet Model Setup](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/5)
+- [ ] [Model Development](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/6)
+- [ ] [Model Validation](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/7)
+- [ ] [Economic Analysis & Optimization](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/8)
+- [ ] [Closeout & Handoff](https://github.com/second-hand-tigers/chem-eng-projects-MMogasDebenz/issues/10)
 
 ## How This Repo Is Organized
 
