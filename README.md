@@ -1,10 +1,12 @@
 # Motor Gasoline Benzene Removal Project
+
 Process modification project aimed at reducing benzene in motor gasoline to comply with emerging regulatory limits.
 
 - This example is a fictional, illustrative scenario — not the actual history of any real company's design discussions, technology choices, or regulatory timeline.
 - Actual industry design discussions of this kind are typically closely guarded, both for competitive reasons and to maintain antitrust compliance between companies. The scenario here is constructed purely to demonstrate how BFDs support project ideation, screening, and stakeholder communication.
 
 ## Milestones
+
 - [ ] [Stakeholder Alignment & Framing](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/1)
 - [ ] [Design Ideation](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/2)
 - [ ] [Final Design Selection & Endorsement](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/3)
@@ -17,6 +19,7 @@ Process modification project aimed at reducing benzene in motor gasoline to comp
 - [ ] [Closeout & Handoff](https://github.com/second-hand-tigers/chem-eng-projects-Mogas1977/issues/10)
 
 ## How This Repo Is Organized
+
 This project uses three parts of GitHub together, each serving a different purpose:
 
 - **Issues & Projects** — Where the work happens. Each milestone above links to
