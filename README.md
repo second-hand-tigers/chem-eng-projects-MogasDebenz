@@ -13,8 +13,11 @@ comply with emerging regulatory limits.
   guarded, both for competitive reasons and to maintain antitrust
   compliance between companies. The scenario here is constructed purely to
   demonstrate work product and socialization integration across every
-  milestone of a project.  For a successful project, stakeholder engagement and knowledge capture are just as critical as the technical work
-  
+  milestone of a project.
+
+  For a successful project, stakeholder engagement and knowledge capture are
+  just as critical as the technical work.
+
 This project follows the
 [shared milestone template](https://github.com/second-hand-tigers/chem-eng-projects/wiki/Milestone-Template)
 with no deviations.
