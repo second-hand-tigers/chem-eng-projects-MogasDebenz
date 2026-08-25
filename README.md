@@ -29,18 +29,18 @@ discussion thread live there. For a filtered Backlog or Board view of just
 one milestone's tasks, open the [Backlog](#) or [Board](#) view and filter
 by milestone manually.
 
-| Milestone | Status | Issue |
-|---|---|---|
-| Stakeholder Alignment & Framing | ⬜ | [#1](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/1) |
-| Design Ideation | ⬜ | [#2](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/2) |
-| Final Design Selection & Endorsement | ⬜ | [#3](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/3) |
-| Create PFD for Selected Design | ⬜ | [#4](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/4) |
-| Software Selection & Management of Change Process | ⬜ | [#9](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/9) |
-| Flowsheet Model Setup | ⬜ | [#5](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/5) |
-| Model Development | ⬜ | [#6](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/6) |
-| Model Validation | ⬜ | [#7](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/7) |
-| Economic Analysis & Optimization | ⬜ | [#8](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/8) |
-| Closeout & Handoff | ⬜ | [#10](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/10) |
+| Milestone | Issue |
+|---|---|
+| Stakeholder Alignment & Framing | [#1](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/1) |
+| Design Ideation | [#2](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/2) |
+| Final Design Selection & Endorsement | [#3](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/3) |
+| Create PFD for Selected Design | [#4](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/4) |
+| Software Selection & Management of Change Process | [#9](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/9) |
+| Flowsheet Model Setup | [#5](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/5) |
+| Model Development | [#6](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/6) |
+| Model Validation | [#7](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/7) |
+| Economic Analysis & Optimization | [#8](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/8) |
+| Closeout & Handoff | [#10](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/10) |
 
 ## How This Repo Is Organized
 
