@@ -1,29 +1,51 @@
-# Motor Gasoline Benzene Removal Project
+# Motor Gasoline Benzene Removal Project (MogasDebenz)
 
-Process modification project aimed at reducing benzene in motor gasoline to comply with emerging regulatory limits.
+Process modification project aimed at reducing benzene in motor gasoline to
+comply with emerging regulatory limits.
 
-- This example is a fictional, illustrative scenario — not the actual history of any real company's design discussions, technology choices, or regulatory timeline.
-- Actual industry design discussions of this kind are typically closely guarded, both for competitive reasons and to maintain antitrust compliance between companies. The scenario here is constructed purely to demonstrate how BFDs support project ideation, screening, and stakeholder communication.
+- This example is a fictional, illustrative scenario — not the actual
+  history of any real company's design discussions, technology choices, or
+  regulatory timeline. See the
+  [Chem-Eng Projects hub](https://github.com/second-hand-tigers/chem-eng-projects)
+  for the general disclaimer and shared teaching philosophy this project
+  follows.
+- Actual industry design discussions of this kind are typically closely
+  guarded, both for competitive reasons and to maintain antitrust
+  compliance between companies. The scenario here is constructed purely to
+  demonstrate work product and socialization integration across every
+  milestone of a project.  For a successful project, stakeholder engagement and knowledge capture are just as critical as the technical work
+  
+This project follows the
+[shared milestone template](https://github.com/second-hand-tigers/chem-eng-projects/wiki/Milestone-Template)
+with no deviations.
 
 ## Milestones
 
-- [ ] [Stakeholder Alignment & Framing](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/1)
-- [ ] [Design Ideation](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/2)
-- [ ] [Final Design Selection & Endorsement](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/3)
-- [ ] [Create PFD for Selected Design](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/4)
-- [ ] [Software Selection & Management of Change Process](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/9)
-- [ ] [Flowsheet Model Setup](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/5)
-- [ ] [Model Development](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/6)
-- [ ] [Model Validation](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/7)
-- [ ] [Economic Analysis & Optimization](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/8)
-- [ ] [Closeout & Handoff](https://github.com/second-hand-tigers/chem-eng-projects-MMogasDebenz/issues/10)
+Each link opens that milestone's Issue directly — the checklist and
+discussion thread live there. For a filtered Backlog or Board view of just
+one milestone's tasks, open the [Backlog](#) or [Board](#) view and filter
+by milestone manually.
+
+| Milestone | Status | Issue |
+|---|---|---|
+| Stakeholder Alignment & Framing | ⬜ | [#1](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/1) |
+| Design Ideation | ⬜ | [#2](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/2) |
+| Final Design Selection & Endorsement | ⬜ | [#3](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/3) |
+| Create PFD for Selected Design | ⬜ | [#4](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/4) |
+| Software Selection & Management of Change Process | ⬜ | [#9](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/9) |
+| Flowsheet Model Setup | ⬜ | [#5](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/5) |
+| Model Development | ⬜ | [#6](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/6) |
+| Model Validation | ⬜ | [#7](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/7) |
+| Economic Analysis & Optimization | ⬜ | [#8](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/8) |
+| Closeout & Handoff | ⬜ | [#10](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/10) |
 
 ## How This Repo Is Organized
 
-This project uses three parts of GitHub together, each serving a different purpose:
+This project uses three parts of GitHub together, each serving a different
+purpose:
 
-- **Issues & Projects** — Where the work happens. Each milestone above links to
-  an Issue containing its task list, discussion, and mock stakeholder
+- **Issues & Projects** — Where the work happens. Each milestone above links
+  to an Issue containing its task list, discussion, and mock stakeholder
   conversation threads. The Projects board gives a Kanban-style view across
   all milestones at once.
 - **Wiki** — Reference material and job aids: how-to guides, the model
@@ -34,4 +56,3 @@ This project uses three parts of GitHub together, each serving a different purpo
 
 **Where to start:** if you're picking up this project for the first time,
 read the Wiki home page, then work through the milestones above in order.
-
