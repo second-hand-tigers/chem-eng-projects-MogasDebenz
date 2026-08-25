@@ -26,8 +26,10 @@ with no deviations.
 
 Each link opens that milestone's Issue directly — the checklist and
 discussion thread live there. For a filtered Backlog or Board view of just
-one milestone's tasks, open the [Backlog](#) or [Board](#) view and filter
-by milestone manually.
+one milestone's tasks, open the [Backlog](https://github.com/orgs/second-hand-tigers/projects/1/views/1) or [Board](https://github.com/orgs/second-hand-tigers/projects/1/views/2) view and filter by milestone manually.
+
+[Project BackLog View](https://github.com/orgs/second-hand-tigers/projects/1/views/2)
+[Project Kanban Board View](https://github.com/orgs/second-hand-tigers/projects/1/views/2)
 
 | Milestone | Issue |
 |---|---|
