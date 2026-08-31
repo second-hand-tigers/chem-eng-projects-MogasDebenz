@@ -1,4 +1,7 @@
-_[ ← chem-eng-projects](https://github.com/second-hand-tigers/chem-eng-projects)_
+_[← chem-eng-projects](https://github.com/second-hand-tigers/chem-eng-projects)_<br>
+_[Toggle to Page View](https://second-hand-tigers.github.io/chem-eng-projects-MogasDebenz/)_
+
+# Motor Gasoline Benzene Removal Project (MogasDebenz)
 
 # Motor Gasoline Benzene Removal Project (MogasDebenz)
 
