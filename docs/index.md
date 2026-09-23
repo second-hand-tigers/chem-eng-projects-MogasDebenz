@@ -3,6 +3,8 @@ layout: default
 title: MogasDebenz
 ---
 
+<img src="https://second-hand-tigers.github.io/assets/images/logo_clear_background.png" alt="Second-Hand Tigers logo" width="120">
+
 _[← chem-eng-projects](https://second-hand-tigers.github.io/chem-eng-projects/)_<br>
 _[Toggle to Repo View](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz)_
 
