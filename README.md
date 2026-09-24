@@ -1,38 +1,18 @@
-_[← chem-eng-projects](https://github.com/second-hand-tigers/chem-eng-projects)_<br>
+_[Learning Hub](https://github.com/second-hand-tigers) › [Process Engineering](https://github.com/second-hand-tigers/chem-eng-projects) › Motor Gasoline Benzene Removal_<br>
 _[Toggle to Page View](https://second-hand-tigers.github.io/chem-eng-projects-MogasDebenz/)_
 
 # Motor Gasoline Benzene Removal Project
 
-Process modification project aimed at reducing benzene in motor gasoline to
-comply with emerging regulatory limits.
+Process modification project aimed at reducing benzene in motor gasoline to comply with emerging regulatory limits. **Work in progress:** milestones are being built out in order.
 
-- This example is a fictional, illustrative scenario — not the actual
-  history of any real company's design discussions, technology choices, or
-  regulatory timeline. See the
-  [Chem-Eng Projects hub](https://github.com/second-hand-tigers/chem-eng-projects)
-  for the general disclaimer and shared teaching philosophy this project
-  follows.
-- Actual industry design discussions of this kind are typically closely
-  guarded, both for competitive reasons and to maintain antitrust
-  compliance between companies. The scenario here is constructed purely to
-  demonstrate work product and socialization integration across every
-  milestone of a project.
+## Where to Start
 
-  For a successful project, stakeholder engagement and knowledge capture are
-  just as critical as the technical work.
+If you're picking up this project for the first time:
 
-This project follows the
-[shared milestone template](https://github.com/second-hand-tigers/chem-eng-projects/wiki/Milestone-Template)
-with no deviations.
+1. Read the [Wiki home page](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/wiki) for the index of job aids and reference material.
+2. Work through the milestones below in order. Each link opens that milestone's Issue, where its checklist and discussion thread live.
 
 ## Milestones
-
-Each link opens that milestone's Issue directly — the checklist and
-discussion thread live there. For a filtered Backlog or Board view of just
-one milestone's tasks, open the [Backlog](https://github.com/orgs/second-hand-tigers/projects/1/views/1) or [Board](https://github.com/orgs/second-hand-tigers/projects/1/views/2) view and filter by milestone manually.
-
-- [Project BackLog View](https://github.com/orgs/second-hand-tigers/projects/1/views/1)
-- [Project Kanban Board View](https://github.com/orgs/second-hand-tigers/projects/1/views/2)
 
 | Milestone | Issue |
 |---|---|
@@ -47,20 +27,30 @@ one milestone's tasks, open the [Backlog](https://github.com/orgs/second-hand-ti
 | Economic Analysis & Optimization | [#8](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/8) |
 | Closeout & Handoff | [#10](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/issues/10) |
 
+For a view across all milestones, use the [Backlog](https://github.com/orgs/second-hand-tigers/projects/1/views/1) or [Kanban Board](https://github.com/orgs/second-hand-tigers/projects/1/views/2), and filter by milestone to see one milestone's tasks.
+
+This project follows the [shared milestone template](https://github.com/second-hand-tigers/chem-eng-projects/wiki/Milestone-Template) with no deviations.
+
+> This is a fictional, illustrative scenario — not the actual history of any
+> real company's design discussions, technology choices, or regulatory
+> timeline. Actual industry design discussions of this kind are typically
+> closely guarded, both for competitive reasons and to maintain antitrust
+> compliance between companies. The scenario is constructed purely to
+> demonstrate work product and socialization integration across every
+> milestone of a project. See the
+> [Process Engineering hub](https://github.com/second-hand-tigers/chem-eng-projects)
+> for the shared teaching philosophy this project follows.
+
+For a successful project, stakeholder engagement and knowledge capture are just as critical as the technical work.
+
 ## How This Repo Is Organized
 
-This project uses three parts of GitHub together, each serving a different
-purpose:
+This project uses three parts of GitHub together, each serving a different purpose:
 
-- **Issues & Projects** — Where the work happens. Each milestone above links
-  to an Issue containing its task list, discussion, and mock stakeholder
-  conversation threads. The Projects board gives a Kanban-style view across
-  all milestones at once.
-- **Wiki** — Reference material and job aids: how-to guides, the model
-  versioning changelog, and other material you'll want to look up repeatedly
-  rather than read once. Start at the Wiki's home page for an index.
-- **GitHub Pages** — A polished, browsable front door to the project for
-  anyone who doesn't need to dig into Issues or the Wiki directly.
+- **Issues & Projects** — Where the work happens. Each milestone above links to an Issue containing its task list, discussion, and mock stakeholder conversation threads. The Projects board gives a Kanban-style view across all milestones at once.
+- **[Wiki](https://github.com/second-hand-tigers/chem-eng-projects-MogasDebenz/wiki)** — Reference material and job aids: how-to guides, the model versioning changelog, and other material you'll want to look up repeatedly rather than read once.
+- **[GitHub Pages](https://second-hand-tigers.github.io/chem-eng-projects-MogasDebenz/)** — A browsable front door to the project for anyone who doesn't need to dig into Issues or the Wiki directly.
 
-**Where to start:** if you're picking up this project for the first time,
-read the Wiki home page, then work through the milestones above in order.
+---
+
+**License:** © 2026 William Docter. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to William Docter and indicate if changes were made.
