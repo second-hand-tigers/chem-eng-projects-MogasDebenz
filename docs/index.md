@@ -59,4 +59,4 @@ This project uses three parts of GitHub together, each serving a different purpo
 
 ---
 
-**License:** © 2026 William Docter. This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to William Docter and indicate if changes were made.
+**License:** © 2026 William Docter and Second-Hand Tigers. This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). You may copy, redistribute, remix, and build upon this material, including for commercial purposes, provided you give appropriate credit to William Docter and Second-Hand Tigers and indicate if changes were made. The Second-Hand Tigers logo is not covered by this license. All rights in it are reserved.
